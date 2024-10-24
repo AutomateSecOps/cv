@@ -1,4 +1,4 @@
-# Tom Power, B.A., CISSP
+# Tom Power, CISSP
 Information Security professional based in Vancouver, BC.
 
  - Passionate about automation, helping others, learning, and sharing what I know through technical documentation.
@@ -8,7 +8,7 @@ Information Security professional based in Vancouver, BC.
  - Assist the Incident Response Team with security investigations.
  - Develop technical content for IT @ UBC administrators and end users to drive greater adoption of infosec standards.
 
-#### [Email](mailto:thomasedwardpower@gmail.com)/[LinkedIn](https://www.linkedin.com/in/thomasedwardpower/)/[GitHub](https://github.com/TPower2112)
+#### [LinkedIn](https://www.linkedin.com/in/tompowercissp/)/[GitHub](https://github.com/AutomateSecOps)
 
 ### 👨‍💻Technical Experience
 **Security Operations-Cybersecurity Analyst II** @[UBC CISO](https://cio.ubc.ca/information-security) *(July 2023-Present)*
