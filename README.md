@@ -7,6 +7,7 @@ Information Security professional based in Vancouver, BC.
  - Triage security events in the CrowdStrike Falcon Platform.
  - Assist the Incident Response Team with security investigations.
  - Develop technical content for IT @ UBC administrators and end users to drive greater adoption of infosec standards.
+ - [Tines AI Efficiency Award Winner Summer 2024](https://www.tines.com/you-did-what-with-tines/summer-2024/)
 
 #### [LinkedIn](https://www.linkedin.com/in/tompowercissp/)/[GitHub](https://github.com/AutomateSecOps)
 
