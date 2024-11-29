@@ -8,6 +8,7 @@ Information Security professional based in Vancouver, BC.
  - Assist the Incident Response Team with security investigations.
  - Develop technical content for IT @ UBC administrators and end users to drive greater adoption of infosec standards.
  - [Tines AI Efficiency Award Winner Summer 2024](https://www.tines.com/you-did-what-with-tines/summer-2024/)
+ - [Blog](http://tines-ai-winner.automatesecops.com/)
 
 #### [LinkedIn](https://www.linkedin.com/in/tompowercissp/)/[GitHub](https://github.com/AutomateSecOps)
 
